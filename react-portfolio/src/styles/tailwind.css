@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'poppins', 'serif';
+}
+
+.githubIcon:hover{
+  transition: 0.4s;
+  color: #927fbf;
+}
+
+.App {
+  display:flexbox;
+}
+
+.submit-button:hover{
+  transition: 0.3s;
+  background: linear-gradient(90deg,  #dd9acc 0%, #8c89df 100%); 
+  transform: scale(0.9);
+}
+
+
