@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub } from "react-icons/fa";
+import { FaGithub } from 'react-icons/fa';
 
 const iconStyle = {color: '#5b446a', fontSize:'45px'}; //styling for icon
 function Intro() {
