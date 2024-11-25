@@ -9,4 +9,9 @@ export default [
     image: './assets/images/dictionary.png',
     stack: ['HTML', 'CSS', 'JavaScript', 'JSX']
    },
+   {title: 'Angular Api App',
+    url: 'https://jellybeanapi.netlify.app/home',
+    image: './assets/images/jellybelly1.png',
+    stack: ['HTML', 'CSS', 'Angular']
+   },
 ]
